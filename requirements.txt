@@ -1,3 +1,2 @@
 numpy==1.21.2
-scikit-surprise==1.0.2
 
