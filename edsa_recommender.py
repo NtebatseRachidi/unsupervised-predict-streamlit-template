@@ -26,7 +26,7 @@
 
 """
 #install surprise 
-pip install scikit-surprise
+pip install -r requirements.txt
 
 # Streamlit dependencies
 import streamlit as st
