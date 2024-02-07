@@ -1,4 +1,4 @@
-numpy==1.21.2
+numpy==1.19.5
 scikit-surprise==1.1.1  
 
 
